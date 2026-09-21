@@ -16,11 +16,11 @@
 ### Denys ([@user4032](https://github.com/user4032))
 <p align="left">
   <img src="https://img.shields.io/badge/Роль-Вайбкодер%20/%20Dota_2-101010?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Статус-Пишу_бекенд-101010?style=for-the-badge&logo=terminal&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Статус-Пишу_фронтенд-101010?style=for-the-badge&logo=terminal&logoColor=green"/>
 </p>
 
 **Поточний фокус у цьому проєкті**
-* Code Review пулл-реквестів від команди
+* нічого
 
 <details>
 <summary><b> Моя GitHub Статистика</b></summary>
